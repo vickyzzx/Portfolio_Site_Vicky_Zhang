@@ -1,0 +1,43 @@
+
+/*----font----*/
+
+body {
+  background-color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px; /* Sets the font size to 16px */
+  font-weight: 300; /* Sets the font weight to 300 */
+  line-height: 1.6; /* Sets the line-height to 1.6 * the font-size */
+  color: #010101;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.4;
+}
+h1 {
+  font-size: 1.625em;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.375em;
+  font-weight: 700;
+  color: #8FA0F9;
+}
+
+h3 {
+  font-size: 1.375em;
+  font-weight: 600;
+}
+h4 {
+  font-size: 1.35em;
+  font-weight: 400;
+}
+
+p{
+  font-weight: 400;
+}
+
+/*----image----*/
+img {
+  width: 100%;
+}
